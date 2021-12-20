@@ -5,7 +5,7 @@ This analysis was performed to understand how Pyber is used among different type
 # Results 
 ![Pyber Summary](analysis/Pyber_Summary.png)
 
-![Pyber Fare Summary](analysis/Pyber_fare_summary.png)
+![Fare Summary](analysis/PyBer_fare_summary.png)
 
 Based on the table and chart above, we can see that Pyber is utilized much more within urban cities than either suburban or rural cities.  Because of such high utilization and an abundance of drivers coupled with shorter distances to travel, urban cities tend have lower average fares per ride and lower average fares per driver.  Theoretically, rides in suburban and rural areas will tend to be longer which, in turn, driving up the fare cost.
 
